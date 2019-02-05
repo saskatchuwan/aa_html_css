@@ -1,0 +1,20 @@
+/* PHASE 2: Notifications */
+
+.badge {
+  font-size: 12px;
+  border-radius: 50%;
+  padding: 5px;
+  background-color:gray;
+  margin: 5px;
+  position: relative;
+}
+
+.dropdown:hover ul{
+  display: block;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+}
+
