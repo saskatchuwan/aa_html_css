@@ -1,0 +1,13 @@
+/* PHASE 8: Thumbs */
+
+.top-nine > li {
+  float: left;
+  width: 60px;
+}
+
+.thumb {
+  display: block;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
